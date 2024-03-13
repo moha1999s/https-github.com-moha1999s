@@ -1,10 +1,10 @@
 
- <img src="" alt="https://i.pinimg.com/originals/1d/a3/66/1da3663ce1d7d0f6098a31a667e862b4.gif">
-      
+      [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Mohamed Alaa Eldin</h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/45/21/b7/4521b7b2e59c1455b15247f1704abcb8.gif">
 
       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moha1999s&label=Profile%20views&color=0e75b6&style=flat" alt="moha1999s" /> </p>
