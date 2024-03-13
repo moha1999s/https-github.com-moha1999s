@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alaa Eldin</h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d9/ff/81/d9ff81c1832097d48ff87937018feb47.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif">
 
       
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moha1999s&label=Profile%20views&color=0e75b6&style=flat" alt="moha1999s" /> </p>
