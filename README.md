@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Mohamed Alaa Eldin</h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
- <img src="[https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif(https://i.pinimg.com/originals/ba/da/91/bada91c2a594f6d02d8e6fe96bdeee0e.gif](https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg)" alt="">
+ <img src="https://i.pinimg.com/564x/c7/15/4b/c7154b20aa547387ea43913c4adcadc9.jpg" alt="">
       
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moha1999s&label=Profile%20views&color=0e75b6&style=flat" alt="moha1999s" /> </p>
